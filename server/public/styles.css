@@ -60,7 +60,6 @@ header a:hover {
 .label {
   color: #10466f !important;
   font-weight: 500;
-  display: block;
 }
 .label:hover {
   color: #176aa9 !important;

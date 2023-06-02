@@ -56,7 +56,11 @@ export default function Nav() {
 
   return (
     <AppBar variant="outlined" position="relative" className="custom-appbar">
-      <Toolbar sx={{ justifyContent: 'space-between', margin: ' 0 1em' }}>
+      <Toolbar
+        sx={{
+          justifyContent: 'space-between',
+        }}
+      >
         <Box>
           <StyledLink to="/">
             <Typography
