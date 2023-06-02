@@ -23,8 +23,13 @@ header a{
 .label {
   color: #10466f  !important;
   font-weight: 500;
+  display: block;
   &:hover {
     color:#176aa9 !important;
+  }
+
+  @media (max-width: 500px){
+    display: none;
   }
 }
 
@@ -45,6 +50,7 @@ header a{
   opacity: 1;
   transform: translateY(0);
   transition: 0.3s ease-in !important;
+
   
 }
 
