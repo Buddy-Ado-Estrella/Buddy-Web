@@ -1,5 +1,7 @@
 # Buddy 🐻
 
+Website: [BuddyApp](https://github.com/Buddy-Ado-Estrella/Buddy-Web)
+
 ## About 
 
 Introducing Buddy, the app that connects internationals to locals and helps them settle into a new country for a truly authentic cultural experience! Moving to a new country can be intimidating, but with Buddy, you can quickly and easily connect with locals who are eager to share their culture and help you navigate your new home.
